@@ -4,6 +4,27 @@
 I built a comprehensive interview preparation platform that helps developers/users practice technical interviews by generating personalized questions and providing detailed explanations. 
 The application uses AI to create role-specific interview questions and offers features like question management and session tracking.
 
+![Screenshot (35)](https://github.com/user-attachments/assets/5e863eca-b667-405f-94ea-f87a29a5a6fc)
+![Screenshot (36)](https://github.com/user-attachments/assets/c129b26d-2d6d-4c9b-a0f7-15161e96c2cf)
+![Screenshot (37)](https://github.com/user-attachments/assets/0573fe61-b3e0-4466-830e-55baa8b90d3e)
+![Screenshot (38)](https://github.com/user-attachments/assets/56b0a59a-8f61-468c-b0bf-636fc48f4752)
+![Screenshot (39)](https://github.com/user-attachments/assets/0c5f85a2-bae9-4c2a-be15-b3457d79c0fa)
+![Screenshot (40)](https://github.com/user-attachments/assets/56c3b3dc-0997-47da-8d37-5a1e5b2b518f)
+![Screenshot (41)](https://github.com/user-attachments/assets/a49fa3bd-809c-4afc-9837-1aa694dc972f)
+![Screenshot (42)](https://github.com/user-attachments/assets/b487878a-60ee-4515-889d-829494c979d2)
+![Screenshot (43)](https://github.com/user-attachments/assets/3f64225a-104b-43d3-84c9-e2eccf757d11)
+![Screenshot (44)](https://github.com/user-attachments/assets/eab9d5bc-fdce-4a3a-8190-7a2b532b883a)
+![Screenshot (45)](https://github.com/user-attachments/assets/78259c76-5f56-44f6-97bc-20e26db6a76e)
+![Screenshot (46)](https://github.com/user-attachments/assets/104658c3-348d-4517-b586-65f9795113e8)
+
+![Screenshot (47)](https://github.com/user-attachments/assets/6757650a-d2b8-4041-ae52-d00c26a2f3d1)
+![Screenshot (48)](https://github.com/user-attachments/assets/d12588d5-7a98-4650-8645-c0cfd524b64f)
+![Screenshot (49)](https://github.com/user-attachments/assets/b48fa73a-680a-44e8-b166-12644216fa57)
+![Screenshot (50)](https://github.com/user-attachments/assets/ed6c01dc-98f0-406e-9aef-5c7d7e967fc0)
+
+
+
+
 ## Key Features
 - **AI-Generated Questions**: Creates customized interview questions based on role, experience level, and focus topics
 - **Session Management**: Organized practice sessions with persistent storage
